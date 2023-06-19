@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 import '../features/navigation/presentation/scaffold_with_nav_bar.dart';
-import '../features/user_authentications/presentation/forgot_password_screen.dart';
-import '../features/user_authentications/presentation/login_screen.dart';
-import '../features/user_authentications/presentation/register_screen.dart';
+import '../features/user_authentications/presentation/screen/forgot_password_screen.dart';
+import '../features/user_authentications/presentation/screen/login_screen.dart';
+import '../features/user_authentications/presentation/screen/register_screen.dart';
 
 import 'route.dart';
 
